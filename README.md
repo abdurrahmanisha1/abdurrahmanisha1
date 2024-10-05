@@ -8,7 +8,7 @@
 
 <br/>    
 
-<div align="center">
+<div align="center"> 
     
  🔭 I’m currently working on **a chat app**
  
