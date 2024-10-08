@@ -8,7 +8,7 @@
 
 <br/>    
 
-<div align="center"> 
+<div align="center">   
      
  🔭 I’m currently working on **a chat app**
  
@@ -18,7 +18,7 @@
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
   
- </div>
+ </div> 
  
 <div align="center"> 
   <a href="abdurrahmanisha@gmail.com">
