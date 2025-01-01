@@ -1,4 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abdurrahmanisha1.abdurrahmanisha1"/>
+<img src="https://img.shields.io/badge/Visitors-500,000+-blueviolet?style=for-the-badge" alt="Visitors Badge">
+
 
 <h1 align="center">Hi 👋, I'm Abdur Rahman Isha (ISHA)</h1>
 
