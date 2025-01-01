@@ -1,43 +1,5 @@
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07"/>
 
-
-        <section class="about">
-            <div class="container">
-                <h2>About ISHA</h2>
-                <p>As the owner of multiple companies, including APPUPNEXT, ThemeWorlds, ThemeLab, BodyFt, and 1Bajar, Isha has built a diverse portfolio in various sectors. These ventures reflect his innovative spirit and commitment to creating businesses that thrive in the ever-evolving digital landscape.</p>
-            </div>
-        </section>
-        <section class="skills">
-            <div class="container">
-                <h2>Technical Expertise</h2>
-                <p>Isha's journey as an entrepreneur began with his strong foundation in blockchain development and website development. With his expertise, he has developed a keen understanding of how technology can drive business success.</p>
-                <ul>
-                    <li>Decentralized applications (dApps)</li>
-                    <li>Smart contracts</li>
-                    <li>Innovative solutions across industries</li>
-                </ul>
-            </div>
-        </section>
-        <section class="business">
-            <div class="container">
-                <h2>Business Vision</h2>
-                <p>In addition to his technical skills, Isha has a deep understanding of business development. His focus on strategic growth has led to the success of his many ventures.</p>
-                <p>Each company operates with a forward-thinking approach, combining innovation and scalability to capture market share.</p>
-            </div>
-        </section>
-        <section class="dreams">
-            <div class="container">
-                <h2>Ambitions & Goals</h2>
-                <p>Beyond his professional pursuits, Isha harbors an ambitious dream of becoming the owner of 1000 billion dollars. This aspiration fuels his drive and determination, constantly pushing him to expand his influence and explore new business opportunities.</p>
-            </div>
-        </section>
-    <footer>
-        <div class="container">
-            <p>&copy; 2025 Abdur Rahman Isha. All Rights Reserved.</p>
-        </div>
-    </footer>
-
-
 <h3 align="center">A passionate software developer from BD</h3>
  
 <br/>
