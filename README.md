@@ -68,9 +68,9 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="210" src="https://github-readme-stats.vercel.app/api?username=abdurrahmanisha1&show_icons=true&theme=radical" alt="Abdur Rahman Isha's GitHub Stats">
+  <img height="110" src="https://github-readme-stats.vercel.app/api?username=abdurrahmanisha1&show_icons=true&theme=radical" alt="Abdur Rahman Isha's GitHub Stats">
   <!-- <br> -->
-  <img height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmanisha1&theme=radical" alt="GitHub Streak">
+  <img height="110" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmanisha1&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
