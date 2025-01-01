@@ -68,7 +68,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdurrahmanisha1&show_icons=true&theme=radical" alt="Abdur Rahman Isha's GitHub Stats">
+  <img height="10" src="https://github-readme-stats.vercel.app/api?username=abdurrahmanisha1&show_icons=true&theme=radical" alt="Abdur Rahman Isha's GitHub Stats">
   <!-- <br> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmanisha1&theme=radical" alt="GitHub Streak">
 </p>
