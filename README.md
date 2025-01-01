@@ -1,22 +1,6 @@
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07"/>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About ISHA</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header class="hero">
-        <div class="container">
-            <h1>Abdur Rahman Isha</h1>
-            <p class="nickname">Known by his nickname: <span>ISHA</span></p>
-            <p class="tagline">A visionary entrepreneur with a passion for technology and business.</p>
-        </div>
-    </header>
-    <main>
+
         <section class="about">
             <div class="container">
                 <h2>About ISHA</h2>
@@ -47,14 +31,11 @@
                 <p>Beyond his professional pursuits, Isha harbors an ambitious dream of becoming the owner of 1000 billion dollars. This aspiration fuels his drive and determination, constantly pushing him to expand his influence and explore new business opportunities.</p>
             </div>
         </section>
-    </main>
     <footer>
         <div class="container">
             <p>&copy; 2025 Abdur Rahman Isha. All Rights Reserved.</p>
         </div>
     </footer>
-</body>
-</html>
 
 
 <h3 align="center">A passionate software developer from BD</h3>
