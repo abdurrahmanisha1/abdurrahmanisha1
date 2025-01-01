@@ -67,7 +67,7 @@
 </p>
 
 
-# Abdur Rahman Isha, known by his nickname ISHA, is a visionary entrepreneur with a passion for technology and business. As the owner of multiple companies, including APPUPNEXT, ThemeWorlds, ThemeLab, BodyFt, and 1Bajar, Isha has built a diverse portfolio in various sectors. These ventures reflect his innovative spirit and commitment to creating businesses that thrive in the ever-evolving digital landscape.
+Abdur Rahman Isha, known by his nickname ISHA, is a visionary entrepreneur with a passion for technology and business. As the owner of multiple companies, including APPUPNEXT, ThemeWorlds, ThemeLab, BodyFt, and 1Bajar, Isha has built a diverse portfolio in various sectors. These ventures reflect his innovative spirit and commitment to creating businesses that thrive in the ever-evolving digital landscape.
 
 Isha's journey as an entrepreneur began with his strong foundation in blockchain development and website development. With his expertise in these fields, he has developed a keen understanding of how technology can drive business success. Blockchain, known for its decentralized and secure nature, is one of Isha's key areas of interest, allowing him to contribute to the development of decentralized applications (dApps), smart contracts, and innovative solutions across industries. Through his blockchain work, he aims to revolutionize the way businesses operate and interact with their customers, enabling a more transparent and efficient system.
 
