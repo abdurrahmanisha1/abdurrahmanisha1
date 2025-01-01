@@ -56,11 +56,30 @@
 ### 🔢 Additional Stats
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdurrahmanisha1&style=for-the-badge&color=blueviolet" alt="Total Visitors">
-  <img src="https://custom-icon-badges.demolab.com/badge/Total%20Commits-10K+-green?style=for-the-badge&logo=commit" alt="Total Commits">
-  <img src="https://custom-icon-badges.demolab.com/badge/Total%20Projects-50+-orange?style=for-the-badge&logo=project" alt="Total Projects">
+  <img src="https://custom-icon-badges.demolab.com/badge/Total%20Commits-50K+-green?style=for-the-badge&logo=commit" alt="Total Commits">
+  <img src="https://custom-icon-badges.demolab.com/badge/Total%20Projects-500+-orange?style=for-the-badge&logo=project" alt="Total Projects">
 </p>
 
 ---
+### 🔢 Additional Stats
+<p align="center">
+  <!-- Total Visitors -->
+  <img src="https://komarev.com/ghpvc/?username=abdurrahmanisha1&style=for-the-badge&color=blueviolet" alt="Total Visitors">
+  
+  <!-- Total Commits -->
+  <img src="https://custom-icon-badges.demolab.com/badge/Total%20Commits-12,345-green?style=for-the-badge&logo=commit" alt="Total Commits">
+  
+  <!-- Total Projects -->
+  <img src="https://custom-icon-badges.demolab.com/badge/Total%20Projects-67-orange?style=for-the-badge&logo=project" alt="Total Projects">
+
+  <!-- This Year's Commits -->
+  <img src="https://custom-icon-badges.demolab.com/badge/This%20Year's%20Commits-3,210-blue?style=for-the-badge&logo=commit" alt="This Year's Commits">
+  
+  <!-- This Year's New Projects -->
+  <img src="https://custom-icon-badges.demolab.com/badge/This%20Year's%20New%20Projects-15-yellow?style=for-the-badge&logo=project" alt="This Year's New Projects">
+</p>
+
+---☻
 
 ### 📫 Connect with Me
 <p align="center">
