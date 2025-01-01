@@ -53,6 +53,15 @@
 
 ---
 
+### 🔢 Additional Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdurrahmanisha1&style=for-the-badge&color=blueviolet" alt="Total Visitors">
+  <img src="https://custom-icon-badges.demolab.com/badge/Total%20Commits-10K+-green?style=for-the-badge&logo=commit" alt="Total Commits">
+  <img src="https://custom-icon-badges.demolab.com/badge/Total%20Projects-50+-orange?style=for-the-badge&logo=project" alt="Total Projects">
+</p>
+
+---
+
 ### 📫 Connect with Me
 <p align="center">
   <a href="mailto:abdurrahmanisha@gmail.com">
