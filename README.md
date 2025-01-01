@@ -1,32 +1,71 @@
- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abdurrahmanisha.abdurrahmanisha"/>
 
-<h3 align="center">A passionate software developer from BD</h3>
- 
-<br/>
- 
-<div  align="center"> 
-     
- 🔭 I’m currently working on **a chat app**
- 
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+<h1 align="center">Hi 👋, I'm Abdur Rahman Isha (ISHA)</h1>
 
-💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/abdurrahmanisha1)**
+<h3 align="center">A Visionary Entrepreneur and Passionate Developer from Bangladesh</h3>
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-  
- </div> 
- 
-<div align="center"> 
-  <a href="abdurrahmanisha@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<p align="center">
+  <a href="mailto:abdurrahmanisha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge">
   </a>
-  <a href="https://www.linkedin.com/in/abdur-rahman-isha2023/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/abdur-rahman-isha2023/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://abdurrahmanisha.com/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://abdurrahmanisha.com/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge">
   </a>
-</div>
+</p>
+
+---
+
+### 🧑‍💻 About Me
+- 🚀 I’m the owner of **APPUPNEXT, ThemeWorlds, ThemeLab, BodyFt, 1Bajar**, and other innovative ventures.
+- 💼 I specialize in **Web Development, Blockchain Development, Business Innovation**, and **AI Solutions**.
+- 🌱 I’m currently learning **Redis, Tailwind CSS, React Native Expo**, and exploring cutting-edge technologies.
+- 🎯 My dream is to become the owner of **1000 billion dollars**, constantly pushing the boundaries of success.
+
+---
+
+### 🔭 Current Focus
+- Building **innovative digital solutions** that shape the future of technology and business.
+- Developing a **chat application** with cutting-edge tools and technologies.
+
+---
+
+### 💬 Ask Me About
+- **Blockchain Development**: dApps, Smart Contracts, and Decentralized Systems.
+- **Web Development**: Laravel, React, Node.js, Firebase, MongoDB.
+- **Business**: Scaling startups, market strategy, and digital innovation.
+
+---
+
+### 🌟 Fun Fact
+- Did you know? **Game of Thrones Night's Watch cloaks are made from Ikea rugs!**
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdurrahmanisha1&show_icons=true&theme=radical" alt="Abdur Rahman Isha's GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmanisha1&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="mailto:abdurrahmanisha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/abdur-rahman-isha2023/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://abdurrahmanisha.com/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge">
+  </a>
+</p>
+
 
 # Abdur Rahman Isha, known by his nickname ISHA, is a visionary entrepreneur with a passion for technology and business. As the owner of multiple companies, including APPUPNEXT, ThemeWorlds, ThemeLab, BodyFt, and 1Bajar, Isha has built a diverse portfolio in various sectors. These ventures reflect his innovative spirit and commitment to creating businesses that thrive in the ever-evolving digital landscape.
 
