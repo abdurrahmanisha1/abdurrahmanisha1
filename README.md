@@ -21,7 +21,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🚀 I’m the owner of **APPUPNEXT, ThemeWorlds, ThemeLab, BodyFt, 1Bajar**, and other innovative ventures.
+- 🚀 I’m the owner of **APPUPNEXT, EnvatoMonster, ThemeWorlds, ThemeLab, BodyFt, 1Bajar**, and other innovative ventures.
 - 💼 I specialize in **Web Development, Blockchain Development, Business Innovation**, and **AI Solutions**.
 - 🌱 I’m currently learning **Redis, Tailwind CSS, React Native Expo**, and exploring cutting-edge technologies.
 - 🎯 My dream is to become the owner of **1000 billion dollars**, constantly pushing the boundaries of success.
