@@ -10,7 +10,7 @@
   <a href="mailto:abdurrahmanisha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge">
   </a>
-  <a href="https://www.linkedin.com/in/abdur-rahman-isha2023/">
+  <a  href="https://www.linkedin.com/in/abdur-rahman-isha2023/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://abdurrahmanisha.com/">
