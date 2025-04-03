@@ -29,7 +29,7 @@
 
 ### 🔭 Current Focus
 - Building **innovative digital solutions** that shape the future of technology and business.
-- Developing a **chat application** with cutting-edge tools and technologies.
+- Developing a **chat  application** with cutting-edge tools and technologies.
 
 ---
 
